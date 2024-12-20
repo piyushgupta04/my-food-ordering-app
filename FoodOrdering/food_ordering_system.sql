@@ -167,7 +167,7 @@ CREATE TABLE `chef` (
 
 INSERT INTO `chef` (`chef_id`, `name`, `password`, `email`) VALUES
 (1, 'Dane', 'a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3', '123@gmail.com'),
-(2, 'John Smith', 'a075d17f3d453073853f813838c15b8023b8c487038436354fe599c3942e1f95', 'john.smith@example.com');
+(2, 'Piyush', '338edafaff13c64e853f751bb0b936d02a9af955b2afb335610bdb2e3a6ac23d', 'chefpiyush@gmail.com');
 
 -- --------------------------------------------------------
 
